@@ -1,6 +1,6 @@
-# frontend-learning
+# frontend-portfolio
 
-前端实习学习仓库（GitHub 优先）。
+Web 前端作品集仓库（GitHub 优先）。
 
 目标岗位（2026-08-08 截图）：
 - web前端实习生 — 四川成什羿衡科技有限公司（名称待核实）
