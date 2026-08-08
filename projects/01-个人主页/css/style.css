@@ -1,0 +1,34 @@
+/* ===== 基础设置（已帮你写好，不用改） ===== */
+
+:root {
+  --主色: #2f6fed;      /* 第 2 天：换成你喜欢的颜色 */
+  --背景色: #f7f8fa;
+  --文字色: #333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+  background: var(--背景色);
+  color: var(--文字色);
+  line-height: 1.6;
+}
+
+/* ===== 第 2 天任务：头部和导航（Flex） ===== */
+/* TODO: 让 .hero 内容居中、加内边距和背景色 */
+/* TODO: 让 nav 用 Flex 横排，链接之间留间距 */
+
+/* ===== 第 3 天任务：技能/项目卡片网格 + 响应式（Grid + @media） ===== */
+/* TODO: 把 #skills 的 ul 改成 Grid，一行放多个卡片 */
+/* TODO: 加 @media 媒体查询：手机一行 1 个，平板 2 个，电脑 3 个 */
+
+/* ===== 第 4 天任务：动效 ===== */
+/* TODO: 给卡片和链接加 hover 效果（变色/上浮） */
+/* TODO: 可选：加一个简单的入场动画 */
+
+/* ===== 第 5 天：整体检查，页面调好看 ===== */
